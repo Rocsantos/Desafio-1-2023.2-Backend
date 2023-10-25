@@ -3,6 +3,8 @@
 Este desafio tem como objetivo resolver a última seção “JavaScript Algorithms and Data Structures Projects” do curso da FreeCodeCamp - Algoritmos e estruturas de dados em JavaScript, vocês deverão completar as 5 atividades dessa seção, salvar o código na pasta correta e enviar um print da seção concluída, por exemplo:
 ![print](./assets/print.png)
 
+![print.gif](./assets/print.gif)
+
 > Note que é possível criar um certificado depois de concluir as 5 atividades.
 
 Caso surjam dúvidas, você pode utilizar o canal da capacitação no slack, contatar algum membro ou conversar com seu squad.
